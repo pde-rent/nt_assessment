@@ -48,7 +48,7 @@ pyasn1-modules==0.2.1
 pycparser==2.20
 pycrypto==2.6.1
 pygobject==3.26.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyodbc==4.0.30
 pyOpenSSL==17.5.0
 pyparsing==2.4.7
